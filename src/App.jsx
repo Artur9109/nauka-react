@@ -37,7 +37,7 @@ function App() {
             <use href="/icons.svg#documentation-icon"></use>
           </svg>
           <h2>To jest test zmian</h2>
-          <p>Your questions, answered</p>
+          <p>NIe wiem, co jeszcze moge tu napisać.</p>
           <ul>
             <li>
               <a href="https://vite.dev/" target="_blank">
